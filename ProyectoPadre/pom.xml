@@ -28,5 +28,6 @@
 	 </build>
     <modules>
     <module>ProyectoJAR</module>
-  </modules>
+    <module>prueba</module>
+    </modules>
 </project>
